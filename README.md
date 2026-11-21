@@ -134,7 +134,7 @@ AI_palmistry_rag_assistant/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/v1i1n1/AI_palmistry_rag_assistant.git
+git clone https://github.com/v1i1n1/AI_palmistry_rag_assistant.git](https://github.com/Vinipallakki/AI_Palmistry_RAG
 ```
 
 ### 2. Navigate to the Project
